@@ -95,9 +95,27 @@ h3 {
   float: left;
 }
 
-.book-image {
+.database-image {
   margin-left: 30px;
   float: right;
+  width: 25%;
+}
+
+.api-image {
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+}
+
+.version-image {
+  margin-left: 30px;
+  float: right;
+  width: 25%;
+}
+
+.book-image {
+  margin-right: 30px;
+  float: left;
   width: 25%;
 }
 
